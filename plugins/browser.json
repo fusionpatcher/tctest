@@ -1,0 +1,43 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.phonegap.helloworld"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "com.lextcorp.helloisitmeyoulookinfor"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.lextcorp.helloisitmeyoulookinfor"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "com.lextcorp.helloisitmeyoulookinfor"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.lextcorp.helloisitmeyoulookinfor"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.lextcorp.helloisitmeyoulookinfor"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.lextcorp.helloisitmeyoulookinfor"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "com.lextcorp.helloisitmeyoulookinfor"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.lextcorp.helloisitmeyoulookinfor"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.lextcorp.helloisitmeyoulookinfor"
+        }
+    }
+}
